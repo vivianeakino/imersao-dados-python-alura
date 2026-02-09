@@ -33,10 +33,3 @@ pip install streamlit pandas plotly
 
 Execute o aplicativo:
 streamlit run app.py
-
-
-Visualização interativa
-
-Construção de dashboards com Streamlit
-
-Comunicação de insights a partir de dados
